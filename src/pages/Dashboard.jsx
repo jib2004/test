@@ -16,7 +16,7 @@ import {
 
 import global from "../../src/assets/global.png";
 import circle from "../../src/assets/add-circle.png";
-import icon from "../../src/assets/icon.png";
+import icon from "../../src/assets/icon2.png";
 import icon2 from "../../src/assets/icon2.png";
 import icon3 from "../../src/assets/icon3.png";
 import icon4 from "../../src/assets/icon4.png";
